@@ -40,7 +40,6 @@ The objective of the game is to guide the ladybug safely across a busy street to
 numerous obstacles stand in its way, requiring quick reflexes and precise maneuvering.
 
 ### Controls
-
 - Arrow keys (up, down, left, right) to move
 - Move the ladybug in order to not be hit by a car
 
