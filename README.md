@@ -9,6 +9,17 @@ useful.
 - python 3 or newer
 - pygame 2.2 or newer
 
+## Shootout
+
+Shootout is a fast paced shooting game that puts your aim and reflexes to the test. Earth is being invaded by alien UFOs
+and you must defend our planet by slaying them. Your goal is to score as many points as possible in a limited amount of 
+time.
+
+### Controls
+The controls of shootout are very straightforward
+- Move the mouse to aim at the enemies
+- Left-click to shoot
+
 ## LadyBugger
 
 Ladybugger is a classic arcade-style game inspired by the popular game Frogger. In this game, you control a charming
