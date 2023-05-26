@@ -20,6 +20,17 @@ The controls of shootout are very straightforward
 - Move the mouse to aim at the enemies
 - Left-click to shoot
 
+## Running Man
+
+Running Man is a side-scrolling endless runner game that will test your reflexes. You play as a man running through the 
+countryside filled with various farm animals that pose as obstacles. Your goal is to maneuver through these obstacles
+and cover as much distance as possible without being hit. Over time you will run faster and faster. The farther you go,
+the more points you gain.
+
+### Controls
+Running Man has extremely simple controls, simply press the space bar to jump. You cannot jump again until you 
+have landed.
+
 ## LadyBugger
 
 Ladybugger is a classic arcade-style game inspired by the popular game Frogger. In this game, you control a charming
