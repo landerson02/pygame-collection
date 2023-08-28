@@ -1,4 +1,4 @@
-# simple-pygame-games
+# Pygame Collection
 
 This repository contains a collection of Pygame games that I created several years ago.
 I decided to create this repository to keep the games around and share them with others who may find them interesting or
